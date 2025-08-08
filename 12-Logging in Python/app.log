@@ -1,3 +1,15 @@
 2025-08-01 22:13:11-module1-DEBUG-This is a debug message for module1
 2025-08-01 22:13:11-module2-WARNING-This is warning message for module 2
 2025-08-01 22:13:11-module2-ERROR-This is an error message
+2025-08-03 12:33:24-ArithmeticApp-DEBUG-Adding10+15=25
+2025-08-03 12:33:24-ArithmeticApp-DEBUG-subtracting15-10=5
+2025-08-03 12:33:24-ArithmeticApp-DEBUG-multiplying5*3=15
+2025-08-03 12:33:24-ArithmeticApp-DEBUG-dividing15/5=3.0
+2025-08-03 12:41:52-ArithmeticApp-DEBUG-Adding10+15=25
+2025-08-03 12:41:52-ArithmeticApp-DEBUG-subtracting15-10=5
+2025-08-03 12:41:52-ArithmeticApp-DEBUG-multiplying5*3=15
+2025-08-03 12:41:52-ArithmeticApp-DEBUG-dividing15/5=3.0
+2025-08-03 12:41:59-ArithmeticApp-DEBUG-Adding10+15=25
+2025-08-03 12:41:59-ArithmeticApp-DEBUG-subtracting15-10=5
+2025-08-03 12:41:59-ArithmeticApp-DEBUG-multiplying5*3=15
+2025-08-03 12:41:59-ArithmeticApp-DEBUG-dividing15/5=3.0
